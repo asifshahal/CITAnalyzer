@@ -45,7 +45,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
         [
             InlineKeyboardButton(
-                "🚀 Open GasPe Trading App",
+                "🚀 Open CIT Chart Analyzer",
                 web_app=WebAppInfo(url=MINI_APP_URL)
             )
         ],
