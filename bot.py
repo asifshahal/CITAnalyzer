@@ -13,7 +13,7 @@ from telegram.ext import (
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
-MINI_APP_URL = "https://t.me/Citchartanalyzer_bot/citanalyzer"
+MINI_APP_URL = "https://citchartanalyzer.app/"
 SUPPORT_URL = "https://t.me/CITsupport"
 COMMUNITY_URL = "https://t.me/cryptoinfo_tamil"
 
